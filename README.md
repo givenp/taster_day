@@ -17,6 +17,7 @@ html code for taster day
 # Right click Bolg.html in the folder and select edit in Notepad++.
 # In Notepad++ select Run and Select Launch in Chrome.
 # Make the changes suggested below and save in Notepad++ and reload in Chrome each time to see the results.
+#
 # 1. Change the title of the page.
 # 2. Change the text to reflect your own interests.
 # 3. Add new images(hobbies/sports) to the post section and include links to live Irish hobbies/sports sites.
