@@ -9,6 +9,6 @@ html code for taster day
 # Tasks:
 # Change the text to reflect your own interests.
 # Add new images(hobbies/sports) to the post section and include links to live Irish hobbies/sports sites.
-# Use Google Images to find images in settings select advanced seach and add your search term and select free to use and share in usage rights
-# Change the color of the text. Look for a RGB colour codes online and use the correct code for the required colour e.g. https://www.rapidtables.com/web/color/RGB_Color.html.
+# Use Google Images (https://www.google.ie/imghp?hl=en&tab=ri) to find image. In settings select advanced seach and add your search term and select free to use and share in usage rights
+# Change the color of the text. Look for a RGB colour codes online and use the correct code for the required colour e.g. https://www.rapidtables.com/web/color/RGB_Color.html. e.g. Red = #FF3333
 # Change the title of the page.
