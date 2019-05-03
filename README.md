@@ -1,8 +1,8 @@
 # taster_day
 html code for taster day
 # Instructions
-# Download code to desktop and unzip to desktop.
-# Open blog.html in Notepad++.
+# Click to download code and open downloads folder. Open in WinZip and unzip to desktop.
+# Right click Bolg.html in the folder and select edit in Notepad++.
 # In Notepad++ select Run and Select Launch in Chrome.
 # Make the changes suggested below and save in Notepad++ and reload in Chrome each time to see the results.
 
